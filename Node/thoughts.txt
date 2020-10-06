@@ -1,0 +1,12 @@
+//- An array of players who are currently searching for a match
+- An array of clients logged into the game
+- An array of actual game lobbies and their state:
+    - Playing (2/2), Free (0/2), Waiting (1/2)
+    - All of the game objects if the game has started
+
+
+
+- The player can press the "Find Game" button, which will
+send a request. Server will then find a free lobby and put him in
+- Once a lobby has 2 players, it becomes closed and starts the game.
+It sends packets to both players: {cmd: "Play", team: "color", map: "mapname"}
