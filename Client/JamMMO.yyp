@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"oDualInstance","path":"objects/oDualInstance/oDualInstance.yy",},"order":5,},
+    {"id":{"name":"__pal_swap_dummy","path":"scripts/__pal_swap_dummy/__pal_swap_dummy.yy",},"order":0,},
     {"id":{"name":"sBackground2","path":"sprites/sBackground2/sBackground2.yy",},"order":10,},
     {"id":{"name":"sPlayerRunBack","path":"sprites/sPlayerRunBack/sPlayerRunBack.yy",},"order":5,},
     {"id":{"name":"sShotgunPickup","path":"sprites/sShotgunPickup/sShotgunPickup.yy",},"order":3,},
