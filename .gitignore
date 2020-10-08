@@ -1,3 +1,9 @@
 node_modules/
 GMLive/
 *GMLive*
+
+scr_retro_pal_swapper/
+scr_retro_pal_swapper_utilities/
+shd_pal_html_sprite/
+shd_pal_html_surface/
+shd_pal_swapper/
