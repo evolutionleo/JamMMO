@@ -1,3 +1,5 @@
+<img src="preview.png" alt="Preview" width="960" height="540">
+
 ## Introduction
 This is an online game made in GameMaker + NodeJS in just 3 days.
 
